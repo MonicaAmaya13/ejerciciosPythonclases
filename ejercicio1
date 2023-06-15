@@ -1,0 +1,10 @@
+#Realizar un programa en Python que solicite
+#dos números a continuación mostrar el resultado
+num1 = int(input("dime un número: "))
+num2 = int(input("dime un número: "))
+res = num1 + num2
+print("El resultado es: ", res) 
+
+dime un número: 3
+dime un número: 5
+El resultado es:  8
